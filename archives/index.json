@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-23",
+    "total_articles": 79,
+    "tiers_included": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "total_articles": 75,
+    "tiers_included": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "total_articles": 76,
+    "tiers_included": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
     "date": "2026-10-20",
     "total_articles": 54,
     "tiers_included": [
