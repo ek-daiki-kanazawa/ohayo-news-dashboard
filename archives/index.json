@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-11",
+    "total_articles": 68,
+    "tiers_included": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
     "date": "2026-11-10",
     "total_articles": 68,
     "tiers_included": [
