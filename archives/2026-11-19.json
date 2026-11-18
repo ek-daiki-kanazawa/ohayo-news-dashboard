@@ -1,0 +1,1030 @@
+{
+  "generated_at": "2026-11-19T07:53:27+09:00",
+  "date": "2026-11-19",
+  "day_of_week": "木",
+  "tiers_included": [
+    1,
+    2,
+    3
+  ],
+  "articles": [
+    {
+      "id": "2026-11-19-001",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "is_primary": true,
+      "media_url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/",
+      "category": "ai_llm",
+      "category_label": "生成AI・LLM",
+      "tier": 1,
+      "score": {
+        "total": 93,
+        "relevance": 38,
+        "impact": 28,
+        "actionability": 27
+      },
+      "summary": "OpenAIが高度専門業務向け「GPT-6.2 Astra」と日常業務向け「GPT-6.2 Sol」を発表した。報道ではAstraが一部評価で前世代超えのスコアを3分の1以下のコストで実現したとされる。",
+      "why_important": "主要モデルの世代交代でコスト・性能の前提が変わり、既存案件のモデル選定見直しが必要になる。コスト比較の数値は原典で要確認。",
+      "adxi_insight": "顧客PoC・本番環境のモデル比較（Astra/Sol/Claude/Gemini）を早期に実施し、コスト削減提案の材料にする。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-002",
+      "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 1,
+      "score": {
+        "total": 90,
+        "relevance": 38,
+        "impact": 25,
+        "actionability": 27
+      },
+      "summary": "AWSがOpenAI GPT-6.2 AstraとGPT-6.2 SolをAmazon Bedrockで一般提供開始した。発表当日からBedrock経由で利用できる。",
+      "why_important": "AWS中心の顧客でもOpenAI最新モデルを既存のBedrock基盤・ガバナンスのまま使える。対応リージョン・料金は原典で要確認。",
+      "adxi_insight": "Bedrock採用顧客にはマルチモデル構成の評価を提案できる。国内リージョン提供状況を確認して案内する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-003",
+      "title": "禁止するだけでは防げない パナソニックの無断アップロード事案で浮かんだ、シャドーAI対応の分かれ道",
+      "source": "ITmedia エンタープライズ",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news069.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 1,
+      "score": {
+        "total": 86,
+        "relevance": 38,
+        "impact": 24,
+        "actionability": 24
+      },
+      "summary": "パナソニックグループで約33万人分の個人情報が、社内で利用禁止の外部生成AIサービスにアップロードされた。禁止だけでは従業員のAI利用は止められないとして、現実的な対応策を論じている。",
+      "why_important": "国内大手のシャドーAI事案で、顧客経営層の関心が一気に高まる。件数等は原典で要確認。",
+      "adxi_insight": "「禁止」から「安全な公式環境の提供＋利用監視」への切替を、ガバナンス設計とセットで提案する好機。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-004",
+      "title": "NotionのAIチャット流出おそれ、幹部が日本での対応状況明かす 「心よりおわび」",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003299/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 1,
+      "score": {
+        "total": 81,
+        "relevance": 36,
+        "impact": 23,
+        "actionability": 22
+      },
+      "summary": "Notion AIのチャット記録が漏えいした可能性がある事案について、Notion LabsのCISOが日本での対応状況を明かし謝罪した。詳細は原文参照。",
+      "why_important": "SaaS組み込みAIのデータ保護が顧客のリスク評価項目になる。事実関係は原典で要確認。",
+      "adxi_insight": "顧客の利用SaaSのAI機能について、データ取扱い・ログ保存の棚卸しを支援メニュー化できる。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-005",
+      "title": "AIの精度が低くて使えない――JA共済連がたどり着いた「AIエージェントの育て方」",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003297/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_private",
+      "category_label": "民間DX事例",
+      "tier": 1,
+      "score": {
+        "total": 81,
+        "relevance": 36,
+        "impact": 20,
+        "actionability": 25
+      },
+      "summary": "JA共済連が社内ガイドラインや履歴データをAIに読み込ませても誤回答が出る課題に対し、データの「渡し方」を工夫してAIエージェントを育てた。業務特化型エージェント構築の実践例。",
+      "why_important": "多くの企業が直面する「精度が出ない」問題への国内大手の具体的な打ち手。",
+      "adxi_insight": "RAG/エージェント案件でのデータ整備・コンテキスト設計の提案ストーリーに引用できる。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-006",
+      "title": "NTTデータ、基幹システムを長期保守しやすい構造へ刷新する「クリーンモダナイゼーション」を提供",
+      "source": "クラウド Watch",
+      "url": "https://cloud.watch.impress.co.jp/docs/news/2157084.html",
+      "is_primary": false,
+      "media_url": "https://enterprisezine.jp/news/detail/25525",
+      "category": "it_consul",
+      "category_label": "SIer・コンサル動向",
+      "tier": 1,
+      "score": {
+        "total": 80,
+        "relevance": 36,
+        "impact": 22,
+        "actionability": 22
+      },
+      "summary": "NTTデータがCOBOL等の基幹システムを長期保守しやすい構造へ段階的に整える「クリーンモダナイゼーション」を提供開始した。生成AIを活用しCOBOLをJavaへ再設計する。",
+      "why_important": "大手SIerが生成AIモダナイゼーションをサービス化し、競合環境が変わる。",
+      "adxi_insight": "自社のレガシー移行×AI提案との差別化ポイント（スピード・小規模から開始等）を整理する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-007",
+      "title": "MUFG、日本発AI「遍在型AGI」を金融サービスで実装へ 松尾研究所など2社と包括提携",
+      "source": "EnterpriseZine",
+      "url": "https://enterprisezine.jp/news/detail/25523",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_private",
+      "category_label": "民間DX事例",
+      "tier": 1,
+      "score": {
+        "total": 80,
+        "relevance": 34,
+        "impact": 25,
+        "actionability": 21
+      },
+      "summary": "MUFGが松尾研究所、Third Intelligenceと包括的パートナーシップを締結した。日本発AI「遍在型AGI」を金融サービスで実装するとしている。",
+      "why_important": "メガバンクのAI戦略の方向性が示され、金融業界全体の投資判断に影響する。",
+      "adxi_insight": "金融顧客との対話でMUFGの動きを起点に、自社に合うAI実装ロードマップを提案できる。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-008",
+      "title": "Copilotは「仕事の新しいOS」、マイクロソフトが新AI戦略を発表",
+      "source": "AI Watch",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2157411.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_product",
+      "category_label": "AIプロダクト",
+      "tier": 2,
+      "score": {
+        "total": 77,
+        "relevance": 32,
+        "impact": 25,
+        "actionability": 20
+      },
+      "summary": "マイクロソフトがIgnite 2026でCopilotを「仕事の新しいOS」と位置付ける新AI戦略を発表した。エンタープライズAIの次段階に向けた包括的プラットフォーム戦略。",
+      "why_important": "M365中心の顧客のAI導入計画に直結する大型発表。",
+      "adxi_insight": "Copilot/Agent 365前提の業務設計・ガバナンス支援を提案メニューとして更新する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-009",
+      "title": "[Launched] Generally Available: Azure AI Gateway",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=580080",
+      "is_primary": true,
+      "media_url": "https://azure.microsoft.com/updates?id=580036",
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 76,
+        "relevance": 32,
+        "impact": 20,
+        "actionability": 24
+      },
+      "summary": "Azure AI GatewayがAPI ManagementのAI Gatewayティアから独立して一般提供となった。API Managementでは複数AIモデルへの標準接続口「Unified Model API」もGA。",
+      "why_important": "マルチモデル利用時の認証・流量制御・監視を一元化する基盤が整った。",
+      "adxi_insight": "Azure顧客のLLM利用基盤（ゲートウェイ・コスト管理）設計の標準構成に組み込む。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-010",
+      "title": "[In preview] Public Preview: Agent Grid helping secure AI agent communications",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=580684",
+      "is_primary": true,
+      "media_url": "https://azure.microsoft.com/updates?id=580694",
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 2,
+      "score": {
+        "total": 74,
+        "relevance": 32,
+        "impact": 20,
+        "actionability": 22
+      },
+      "summary": "Azureで、AIエージェント通信にIDベースのゼロトラストを適用する「Agent Grid」がパブリックプレビューとなった。Azure Firewall Premium向け「AI Security」アドオンもプレビュー開始。",
+      "why_important": "エージェント運用のネットワーク・通信保護がクラウド標準機能で可能になりつつある。",
+      "adxi_insight": "エージェント導入案件の非機能要件（通信制御・監査）に組み込む検証を進める。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-011",
+      "title": "AIエージェントは増えるが「守れている企業はほとんどない」――“権限と責任”はどうあるべきか",
+      "source": "@IT",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news018.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 2,
+      "score": {
+        "total": 72,
+        "relevance": 32,
+        "impact": 18,
+        "actionability": 22
+      },
+      "summary": "AIエージェントの利用が広がる中、自律的に行動するエージェントの責任所在とアクセス権限制御が問われている。企業のID管理に求められる対応を解説。",
+      "why_important": "エージェント導入時のID・権限設計が多くの企業で未整備。",
+      "adxi_insight": "エージェント導入支援に「権限・責任設計」パッケージを付ける提案ができる。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-012",
+      "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
+      "is_primary": true,
+      "media_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 70,
+        "relevance": 30,
+        "impact": 16,
+        "actionability": 24
+      },
+      "summary": "Amazon Bedrock AgentCore Memoryで短期メモリイベントを最大10年保持できるようになった（従来1年）。全セッションの要約を1レコードで保持する機能も追加。",
+      "why_important": "長期の対話履歴を前提としたエージェント設計がしやすくなる。保持期間は原典で要確認。",
+      "adxi_insight": "長期顧客対応エージェントの設計で、保存期間と個人情報保護のバランスを要件定義に入れる。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-015",
+      "title": "Geminiの進化で浮上する課題 自律型AIから機密を守るGoogle新機能が登場",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003290/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 2,
+      "score": {
+        "total": 68,
+        "relevance": 30,
+        "impact": 18,
+        "actionability": 20
+      },
+      "summary": "Googleが11月17日に発表した2つのGemini関連アップデートから、自律型AIの自動化の現在地と機密保護の機能を紹介。機密データへの過剰アクセス・漏えい懸念に対応する新機能。",
+      "why_important": "Google Workspace顧客のAIエージェント導入で機密保護設計の選択肢が増える。",
+      "adxi_insight": "Workspace顧客向けに機密保護設定のチェックリストを用意する。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-016",
+      "title": "GAS×Geminiが一般提供開始 IT管理者が確認すべき権限設定は？",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003256/",
+      "is_primary": false,
+      "media_url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003259/",
+      "category": "ai_product",
+      "category_label": "AIプロダクト",
+      "tier": 2,
+      "score": {
+        "total": 68,
+        "relevance": 30,
+        "impact": 16,
+        "actionability": 22
+      },
+      "summary": "Google Apps ScriptとGeminiの連携が一般提供となり、自然言語でスクリプト作成・編集・エラー修正ができる。Geminiの「スキル」もドライブ上の最新ファイル参照や共有に対応。",
+      "why_important": "非エンジニアの業務自動化が広がる一方、IT管理者の権限設定確認が必要。",
+      "adxi_insight": "市民開発の推進とガードレール設計（権限・共有範囲）をセットで提案する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-018",
+      "title": "大幅予算超過の組織、7割は「ダッシュボード導入済み」だった AIエージェント支出の落とし穴",
+      "source": "ITmedia エンタープライズ",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news020.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "it_consul",
+      "category_label": "SIer・コンサル動向",
+      "tier": 2,
+      "score": {
+        "total": 68,
+        "relevance": 30,
+        "impact": 18,
+        "actionability": 20
+      },
+      "summary": "IDCは、AIエージェントがSaaSを置き換えるかの議論より、買い手は「いくらかかるか」を知りたいと指摘。大幅予算超過の組織の7割はダッシュボード導入済みだったという。",
+      "why_important": "エージェントのコスト予測が導入判断の障壁になっている。数値は原典で要確認。",
+      "adxi_insight": "提案時にエージェント運用コストの試算モデルとモニタリング設計を付ける。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-013",
+      "title": "Amazon Bedrock AgentCore now offers free monthly web search queries",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 66,
+        "relevance": 28,
+        "impact": 14,
+        "actionability": 24
+      },
+      "summary": "Amazon Bedrock AgentCoreのWeb Search Toolで月5,000件のWeb検索クエリが無料提供される。",
+      "why_important": "PoCの検索コストを抑えられる。件数は原典で要確認。",
+      "adxi_insight": "検索連携エージェントのPoCを低コストで回す構成として顧客に提示できる。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-014",
+      "title": "Amazon SageMaker AI now supports cross-Region inference routing",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 66,
+        "relevance": 30,
+        "impact": 16,
+        "actionability": 20
+      },
+      "summary": "Amazon SageMaker AIがリージョン間推論ルーティングに対応した。推論アプリケーションの可用性維持を支援する。",
+      "why_important": "データの越境処理が発生しうるため、国内データ要件の顧客は設定確認が必要。",
+      "adxi_insight": "国内リージョン限定要件の顧客には、ルーティング設定の可否を設計レビューで確認する。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-017",
+      "title": "Introducing Gemini 4 Neon",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "is_primary": true,
+      "media_url": null,
+      "category": "ai_llm",
+      "category_label": "生成AI・LLM",
+      "tier": 2,
+      "score": {
+        "total": 66,
+        "relevance": 28,
+        "impact": 22,
+        "actionability": 16
+      },
+      "summary": "Google DeepMindが「Gemini 4 Neon」を発表した。詳細は原文参照。",
+      "why_important": "Geminiの新モデルでモデル選定に影響する可能性。仕様は原典で要確認。",
+      "adxi_insight": "仕様公開を確認のうえ、GPT-6.2と並べた比較評価の対象に加える。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-019",
+      "title": "膨らむAIコストは削るより「リターン」で測る マネーフォワードが実践する“ROT経営”とは",
+      "source": "EnterpriseZine",
+      "url": "https://enterprisezine.jp/article/detail/25443",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_private",
+      "category_label": "民間DX事例",
+      "tier": 2,
+      "score": {
+        "total": 66,
+        "relevance": 28,
+        "impact": 16,
+        "actionability": 22
+      },
+      "summary": "マネーフォワードが、膨らむAIコストを削減でなくリターンで測る「ROT経営」を実践している。トークン等のAIコストへの向き合い方を紹介。",
+      "why_important": "AIコスト管理の国内実例として経営層説明に使える。",
+      "adxi_insight": "顧客のAI利用のROI指標設計の参考事例として紹介できる。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-020",
+      "title": "データを統合せずにAIを使う 楽天市場が実証する“既存システムのまま”のデータ基盤",
+      "source": "ITmedia エンタープライズ",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news005.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_private",
+      "category_label": "民間DX事例",
+      "tier": 2,
+      "score": {
+        "total": 66,
+        "relevance": 30,
+        "impact": 16,
+        "actionability": 20
+      },
+      "summary": "楽天市場が、複数システムに分散した業務履歴を1カ所に統合せずにつなぐAIエージェントの実証を進めている。ECコンサルタントの属人的な経験値の活用が狙い。",
+      "why_important": "データ統合を待たずにAIを使うアプローチの国内実例。",
+      "adxi_insight": "「データ基盤整備が先」で止まる顧客に、既存システム接続型エージェントを提案する根拠になる。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-021",
+      "title": "コマツ油機開発センタが挑む設計プロセス改革、ナレッジ検索／整備に生成AI活用",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news001.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_private",
+      "category_label": "民間DX事例",
+      "tier": 2,
+      "score": {
+        "total": 62,
+        "relevance": 28,
+        "impact": 14,
+        "actionability": 20
+      },
+      "summary": "コマツの油機開発センタがベテラン設計者のノウハウを「ナレッジデータ」として約7500件蓄積し、生成AIで検索性を高めている。2022年から実務運用中。",
+      "why_important": "製造業の技術伝承×生成AIの具体例。件数は原典で要確認。",
+      "adxi_insight": "製造業顧客向けナレッジ活用提案の事例として活用できる。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-022",
+      "title": "まいばすけっとは「月2万件対応の社内窓口」の新人教育にAIをどう使った？",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003301/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_private",
+      "category_label": "民間DX事例",
+      "tier": 2,
+      "score": {
+        "total": 62,
+        "relevance": 28,
+        "impact": 14,
+        "actionability": 20
+      },
+      "summary": "まいばすけっとが月約2万件の問い合わせを受ける社内コールセンターの新人教育にAIを導入し、指導時間を削減した。教育の標準化と効率化を両立した方法を紹介。",
+      "why_important": "社内窓口×AI教育の国内事例。",
+      "adxi_insight": "コールセンター・ヘルプデスク顧客への教育AI提案事例として使える。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-023",
+      "title": "日本テラデータ、AIの「PoC止まり」打破すべくコンテキストエンジニアリングを推進へ FDEを提供",
+      "source": "EnterpriseZine",
+      "url": "https://enterprisezine.jp/news/detail/25517",
+      "is_primary": false,
+      "media_url": "https://xtech.nikkei.com/atcl/nxt/column/18/02893/111700018/",
+      "category": "it_consul",
+      "category_label": "SIer・コンサル動向",
+      "tier": 2,
+      "score": {
+        "total": 62,
+        "relevance": 28,
+        "impact": 14,
+        "actionability": 20
+      },
+      "summary": "日本テラデータがAIエージェントのPoC止まり打破に向け、コンテキストエンジニアリングサービスと現場常駐型支援（FDE）を提供する。Cognition日本法人もDevinの普及に直販とFDEを活用。",
+      "why_important": "ベンダーがFDE（現場入り込み型エンジニア）で導入支援を強化しており、競合領域と重なる。",
+      "adxi_insight": "ADiXiの伴走型支援との違い・強みを明確化して提案に反映する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-024",
+      "title": "[In preview] Public Preview: AI-powered application and database modernization with Modernize CLI",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=579943",
+      "is_primary": true,
+      "media_url": "https://azure.microsoft.com/updates?id=579231",
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 62,
+        "relevance": 26,
+        "impact": 16,
+        "actionability": 20
+      },
+      "summary": "Azureで、アプリとDBのモダナイゼーションをエージェント型で一連に進める「Modernize CLI」がパブリックプレビューとなった。OracleからPostgreSQLへのアプリコード移行をAIで支援するプラグインもプレビュー。",
+      "why_important": "クラウド移行案件の工数見積もりに影響する。",
+      "adxi_insight": "移行案件でAI支援ツールの適用可否を評価し、見積もり・提案に織り込む。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-025",
+      "title": "Google Cloud、日本のサイバーセキュリティ強化とAIの導入などを加速 Google AI プロフェッショナル認定証の受講アカウントを1万名に無償提供",
+      "source": "AI Watch",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2157377.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "policy",
+      "category_label": "政策・規制",
+      "tier": 2,
+      "score": {
+        "total": 60,
+        "relevance": 26,
+        "impact": 18,
+        "actionability": 16
+      },
+      "summary": "Google CloudのKurian CEOが片山財務大臣と会談し、日本のサイバーセキュリティ強化とAI導入加速の取り組みを発表した。Google AIプロフェッショナル認定証の受講アカウント1万名分を無償提供する。",
+      "why_important": "国内のAI人材育成・セキュリティ施策にGoogleが関与。人数は原典で要確認。",
+      "adxi_insight": "顧客の人材育成施策として無償枠の活用を案内できる。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-026",
+      "title": "「運転免許証等の顔写真付きの公的身分証明書の画像の消去について（注意喚起）」の公表（令和８年11月18日）",
+      "source": "個人情報保護委員会",
+      "url": "https://www.ppc.go.jp/news/press/2026/261118_houdou",
+      "is_primary": true,
+      "media_url": null,
+      "category": "policy",
+      "category_label": "政策・規制",
+      "tier": 2,
+      "score": {
+        "total": 60,
+        "relevance": 28,
+        "impact": 14,
+        "actionability": 18
+      },
+      "summary": "個人情報保護委員会が「運転免許証等の顔写真付きの公的身分証明書の画像の消去について」注意喚起を公表した。詳細は原文参照。",
+      "why_important": "本人確認書類画像の保存はAI-OCR等のシステム設計に関わる。内容は原典で要確認。",
+      "adxi_insight": "本人確認・帳票AI案件で画像の保存・消去ルールを要件に反映する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-027",
+      "title": "一般競争入札：耐量子計算機暗号（PQC）への移行に係る調査検討業務一式を掲載しました",
+      "source": "デジタル庁",
+      "url": "https://www.digital.go.jp/procurement",
+      "is_primary": true,
+      "media_url": "https://cloud.watch.impress.co.jp/docs/news/2157177.html",
+      "category": "dx_gov",
+      "category_label": "行政DX",
+      "tier": 2,
+      "score": {
+        "total": 60,
+        "relevance": 26,
+        "impact": 16,
+        "actionability": 18
+      },
+      "summary": "デジタル庁が「耐量子計算機暗号（PQC）への移行に係る調査検討業務」の一般競争入札を掲載した。NECと日本IBMはQKDとPQCを組み合わせた量子安全通信の実証成功を発表。",
+      "why_important": "政府のPQC移行検討が具体化し、民間にも波及する。",
+      "adxi_insight": "セキュリティ提案の中長期テーマとしてPQC移行の情報を整理しておく。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-028",
+      "title": "paizaで90万件超の個人データにアクセス可能、“13年間認証情報変更なし” マズ過ぎる運用実態",
+      "source": "@IT",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news012.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 3,
+      "score": {
+        "total": 58,
+        "relevance": 26,
+        "impact": 16,
+        "actionability": 16
+      },
+      "summary": "paizaで最大90万2576件の個人データに第三者がアクセス可能な状態が発覚した。開発環境で13年変更されなかった認証情報と権限管理が背景。",
+      "why_important": "開発・検証環境の管理不備による漏えいの典型例。件数は原典で要確認。",
+      "adxi_insight": "AI検証環境（PoC環境）の認証・権限管理を点検項目に含める。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-029",
+      "title": "NRIセキュア、稼働中の本番環境を止めずに設定情報から診断する「フロンティアAI対応 OT攻撃耐性診断」",
+      "source": "クラウド Watch",
+      "url": "https://cloud.watch.impress.co.jp/docs/news/2157041.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 3,
+      "score": {
+        "total": 54,
+        "relevance": 24,
+        "impact": 14,
+        "actionability": 16
+      },
+      "summary": "NRIセキュアが、OT環境を対象に本番を止めず設定情報から診断する「フロンティアAI対応 OT攻撃耐性診断」の提供を開始した。",
+      "why_important": "製造・インフラ顧客のAI時代のセキュリティ需要を示す。",
+      "adxi_insight": "製造業顧客にセキュリティ観点のパートナー連携を検討する材料。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-030",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "is_primary": false,
+      "media_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "category": "funding",
+      "category_label": "資金調達・投資",
+      "tier": 3,
+      "score": {
+        "total": 54,
+        "relevance": 24,
+        "impact": 22,
+        "actionability": 8
+      },
+      "summary": "AnthropicのIPO価格が1株83ドルと想定レンジを上回ったと報じられ、完全希薄化ベースで1.5兆ドルの評価とされる。IPO後はAmazonとGoogleで約30%を保有する見込み。",
+      "why_important": "主要LLMベンダーの資本構成と事業継続性に関わる。数値は原典で要確認。",
+      "adxi_insight": "顧客のベンダーリスク評価の質問に備え、情報を押さえておく。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-031",
+      "title": "[Launched] Generally Available: Microsoft Agent 365 integration with Azure API Management and Azure AI Gateway",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=580055",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 54,
+        "relevance": 24,
+        "impact": 14,
+        "actionability": 16
+      },
+      "summary": "Microsoft Agent 365とAzure API Management／Azure AI Gatewayの統合が一般提供となった。組織がエージェントを管理しやすくなる。",
+      "why_important": "エージェントの統制基盤がMS製品内で整う。",
+      "adxi_insight": "M365×Azure顧客のエージェント管理設計に組み込む。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-032",
+      "title": "[In preview] Public Preview: Agent Sandbox cluster extension",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=580916",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 50,
+        "relevance": 22,
+        "impact": 12,
+        "actionability": 16
+      },
+      "summary": "AKS向けに、モデル生成コードなど信頼できないコードをセッションごとに隔離実行する「Agent Sandbox」クラスタ拡張がパブリックプレビューとなった。",
+      "why_important": "コード実行型エージェントの安全な実行基盤。",
+      "adxi_insight": "コード実行エージェント案件の隔離方式の選択肢として検証する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-033",
+      "title": "[In preview] Public Preview: Managed MCP Server in Azure Cosmos DB",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=578434",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 50,
+        "relevance": 22,
+        "impact": 12,
+        "actionability": 16
+      },
+      "summary": "Azure Cosmos DBのホスト型MCPサーバーがプレビューとなり、企業AIエージェントが安全にデータへアクセスできるようになる。",
+      "why_important": "MCPのマネージド提供が広がり、エージェント連携の実装負担が下がる。",
+      "adxi_insight": "MCP連携のPoCでマネージドサービスを優先候補にする。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-034",
+      "title": "[In preview] Limited Preview: Azure Workload Center for SAP and Azure Copilot Run SAP Agent",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=581209",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 48,
+        "relevance": 22,
+        "impact": 12,
+        "actionability": 14
+      },
+      "summary": "Azure Workload Center for SAPとAzure Copilot Run SAP Agentが限定プレビューとなった。SAPワークロードを意識した運用体験を提供する。",
+      "why_important": "SAP on Azure運用のAI化。",
+      "adxi_insight": "SAP顧客の運用改善提案の材料として注視する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-035",
+      "title": "Amazon OpenSearch Memory is now generally available",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/",
+      "is_primary": true,
+      "media_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-serverless-support-ingest-pipelines",
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 46,
+        "relevance": 22,
+        "impact": 10,
+        "actionability": 14
+      },
+      "summary": "Amazon OpenSearch Memoryが一般提供となった。OpenSearch Serverlessはドキュメントのクリーニング・ベクトル化を行うインジェストパイプラインにも対応。",
+      "why_important": "RAG基盤の構築がマネージドで簡素化する。",
+      "adxi_insight": "AWS上のRAG構成の候補として評価する。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-036",
+      "title": "AWS Lambda adds support for GPU instances on Lambda Managed Instances",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 44,
+        "relevance": 20,
+        "impact": 12,
+        "actionability": 12
+      },
+      "summary": "AWS LambdaがLambda Managed Instances上でGPUインスタンス（EC2 Gシリーズ）を使ったイベント関数に対応した。",
+      "why_important": "サーバーレスでGPU推論を扱える選択肢。",
+      "adxi_insight": "小規模推論ワークロードのコスト最適化案として検討する。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-037",
+      "title": "わが社はChatGPTでどう紹介されている？ OpenAIが企業向けの確認機能を提供開始",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_product",
+      "category_label": "AIプロダクト",
+      "tier": 3,
+      "score": {
+        "total": 44,
+        "relevance": 20,
+        "impact": 12,
+        "actionability": 12
+      },
+      "summary": "OpenAIが、ChatGPTが自社をどう紹介しているかを企業が把握できる機能をβ版で公開した。現時点は米国の対象企業向け。",
+      "why_important": "AI検索時代のブランド管理（AIO）需要を示す。",
+      "adxi_insight": "マーケ部門向けにAI上の自社表示のモニタリング支援を検討する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-039",
+      "title": "Inside the Codex sandbox",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "is_primary": true,
+      "media_url": "https://openai.com/index/managing-frontier-ai-risk",
+      "category": "ai_llm",
+      "category_label": "生成AI・LLM",
+      "tier": 3,
+      "score": {
+        "total": 44,
+        "relevance": 20,
+        "impact": 12,
+        "actionability": 12
+      },
+      "summary": "OpenAIがCodexでの、ユーザー管理のファイルシステム・ネットワーク制限を守りながらコマンドを実行するサンドボックスの仕組みを解説した。訓練から展開までのフロンティアAIリスク管理の考え方も公開。",
+      "why_important": "コーディングエージェント導入時のセキュリティ説明に使える。",
+      "adxi_insight": "開発支援エージェント導入時の安全設計の説明資料に活用する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-040",
+      "title": "マイクロソフトCEO「レジリエンスを継続的に改善」、大規模クラウド障害で",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12187/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 44,
+        "relevance": 22,
+        "impact": 14,
+        "actionability": 8
+      },
+      "summary": "マイクロソフトのナデラCEOが、12日に発生したクラウドの大規模障害についてレジリエンスを継続的に改善すると述べた。",
+      "why_important": "Azure依存システムの可用性設計を見直す契機。",
+      "adxi_insight": "顧客のAI基盤でリージョン冗長・フェイルオーバー設計を確認する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-038",
+      "title": "AIにクレカを渡せるか OpenAI「ChatGPT Wallet」米国で提供開始",
+      "source": "ITmedia エンタープライズ",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news028.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_product",
+      "category_label": "AIプロダクト",
+      "tier": 3,
+      "score": {
+        "total": 42,
+        "relevance": 18,
+        "impact": 14,
+        "actionability": 10
+      },
+      "summary": "OpenAIがAIエージェントが利用者に代わって決済する「ChatGPT Wallet」を米国で提供開始した。",
+      "why_important": "エージェント決済の実用化の先行事例。",
+      "adxi_insight": "EC・金融顧客との将来像議論の材料にする。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-041",
+      "title": "データセンター利用料が5年で17％上昇 契約更新前に確認すべき「9項目」",
+      "source": "ITmedia エンタープライズ",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news020.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "it_consul",
+      "category_label": "SIer・コンサル動向",
+      "tier": 3,
+      "score": {
+        "total": 42,
+        "relevance": 20,
+        "impact": 12,
+        "actionability": 10
+      },
+      "summary": "データセンターのコロケーション料金が5年で17％上昇しており、契約更新前に確認すべき9項目を解説。",
+      "why_important": "AI需要によるインフラコスト上昇。数値は原典で要確認。",
+      "adxi_insight": "オンプレ／クラウドのコスト比較で値上がり傾向を反映する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-042",
+      "title": "島津製作所、ERPシステムを「SAP S/4HANA」に刷新へ 本社は2028年度に稼働予定",
+      "source": "EnterpriseZine",
+      "url": "https://enterprisezine.jp/news/detail/25451",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_private",
+      "category_label": "民間DX事例",
+      "tier": 3,
+      "score": {
+        "total": 40,
+        "relevance": 18,
+        "impact": 12,
+        "actionability": 10
+      },
+      "summary": "島津製作所がグループ全体のERPを「SAP S/4HANA」に刷新し、本社は2028年度に稼働予定と発表した。",
+      "why_important": "大手製造業の基幹刷新の動き。",
+      "adxi_insight": "ERP刷新に伴うデータ活用・AI連携の提案余地を注視する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-043",
+      "title": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 3,
+      "score": {
+        "total": 40,
+        "relevance": 20,
+        "impact": 12,
+        "actionability": 8
+      },
+      "summary": "日立製作所が、AIによる業務が人間の承認に基づくことを証明する技術「PoHD」を開発した。生体情報から署名鍵を都度復元し、鍵を保存しない。",
+      "why_important": "エージェントの承認・証跡技術の国内研究。",
+      "adxi_insight": "エージェントの承認フロー設計の将来技術として把握する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-044",
+      "title": "TISI、Scalarと協業しAI活用基盤の整備を支援する「ScalarDB導入パッケージ」を提供",
+      "source": "クラウド Watch",
+      "url": "https://cloud.watch.impress.co.jp/docs/news/2157457.html",
+      "is_primary": false,
+      "media_url": "https://cloud.watch.impress.co.jp/docs/news/2157332.html",
+      "category": "it_consul",
+      "category_label": "SIer・コンサル動向",
+      "tier": 3,
+      "score": {
+        "total": 40,
+        "relevance": 18,
+        "impact": 10,
+        "actionability": 12
+      },
+      "summary": "TISIがScalarと協業し、AI活用基盤の整備を支援する「ScalarDB導入パッケージ」を提供する。AI insideは橋本ホールディングスとAIの事業活用に向けた基本合意を締結。",
+      "why_important": "国内IT企業のAI基盤・事業化の動き。",
+      "adxi_insight": "競合・協業候補として動向を把握する。",
+      "published_date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-045",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "global_dx",
+      "category_label": "海外DX",
+      "tier": 3,
+      "score": {
+        "total": 40,
+        "relevance": 18,
+        "impact": 12,
+        "actionability": 10
+      },
+      "summary": "Citiなど複数の大手金融機関が、顧客の個人向けAIエージェント利用は自己責任とする方針を示している。ハッキング被害時も同様とされる。",
+      "why_important": "エージェント利用の責任分界が金融で論点化。",
+      "adxi_insight": "金融顧客とのエージェント活用議論で責任分界の論点を提示する。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "id": "2026-11-19-046",
+      "title": "マイナンバーカードを用いた公的個人認証サービス（JPKI）導入事業者及び事例一覧を更新しました",
+      "source": "デジタル庁",
+      "url": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction/mynumbercard-user-list",
+      "is_primary": true,
+      "media_url": null,
+      "category": "dx_gov",
+      "category_label": "行政DX",
+      "tier": 3,
+      "score": {
+        "total": 40,
+        "relevance": 18,
+        "impact": 10,
+        "actionability": 12
+      },
+      "summary": "デジタル庁がマイナンバーカードを用いた公的個人認証サービス（JPKI）導入事業者及び事例一覧を更新した。詳細は原文参照。",
+      "why_important": "本人確認DXの導入状況の参考。",
+      "adxi_insight": "本人確認を含む業務DX提案の事例参照に使う。",
+      "published_date": "2026-11-18"
+    }
+  ],
+  "case_studies": [
+    {
+      "company": "JA共済連",
+      "title": "AIの精度が低くて使えない――JA共済連がたどり着いた「AIエージェントの育て方」",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003297/",
+      "source": "ITmedia AI+",
+      "summary": "JA共済連が社内ガイドラインや履歴データをAIに読み込ませても誤回答が出る課題に対し、データの「渡し方」を工夫してAIエージェントを育てた。業務特化型エージェント構築の実践例。",
+      "adxi_insight": "RAG/エージェント案件でのデータ整備・コンテキスト設計の提案ストーリーに引用できる。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "company": "楽天グループ",
+      "title": "データを統合せずにAIを使う 楽天市場が実証する“既存システムのまま”のデータ基盤",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news005.html",
+      "source": "ITmedia エンタープライズ",
+      "summary": "楽天市場が、複数システムに分散した業務履歴を1カ所に統合せずにつなぐAIエージェントの実証を進めている。ECコンサルタントの属人的な経験値の活用が狙い。",
+      "adxi_insight": "「データ基盤整備が先」で止まる顧客に、既存システム接続型エージェントを提案する根拠になる。",
+      "published_date": "2026-11-19"
+    },
+    {
+      "company": "コマツ",
+      "title": "コマツ油機開発センタが挑む設計プロセス改革、ナレッジ検索／整備に生成AI活用",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news001.html",
+      "source": "ITmedia AI+",
+      "summary": "コマツの油機開発センタがベテラン設計者のノウハウを「ナレッジデータ」として約7500件蓄積し、生成AIで検索性を高めている。2022年から実務運用中。",
+      "adxi_insight": "製造業顧客向けナレッジ活用提案の事例として活用できる。",
+      "published_date": "2026-11-19"
+    }
+  ],
+  "stats": {
+    "total_articles": 46,
+    "by_tier": {
+      "1": 7,
+      "2": 20,
+      "3": 19
+    },
+    "by_category": {
+      "ai_llm": 3,
+      "vendor_updates": 13,
+      "security": 8,
+      "dx_private": 7,
+      "it_consul": 5,
+      "ai_product": 4,
+      "policy": 2,
+      "dx_gov": 2,
+      "funding": 1,
+      "global_dx": 1
+    },
+    "primary_source_ratio": 0.41,
+    "window": "2026-11-18..2026-11-19",
+    "collected_total": 169
+  }
+}
