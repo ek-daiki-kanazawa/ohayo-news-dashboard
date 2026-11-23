@@ -1,0 +1,1030 @@
+{
+  "generated_at": "2026-11-24T07:53:37+09:00",
+  "date": "2026-11-24",
+  "day_of_week": "火",
+  "tiers_included": [
+    1,
+    2,
+    3
+  ],
+  "articles": [
+    {
+      "id": "2026-11-24-001",
+      "title": "Retirement: Azure AI Content Safety selected features will be retired on April 30, 2027",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=577474",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 1,
+      "score": {
+        "total": 88,
+        "relevance": 38,
+        "impact": 24,
+        "actionability": 26
+      },
+      "summary": "Azure AI Content Safetyのプレビュー機能の一部（Analyze Multimodal、Custom categories (rapid)など）が2027年4月30日に廃止される。対象機能の詳細は原文参照。",
+      "why_important": "Content Safetyを組み込んだ既存の顧客システムに移行作業が発生し得る。廃止日・対象機能は原典で要確認。",
+      "adxi_insight": "構築済み案件でのContent Safety利用箇所を棚卸しし、Foundry Guardrails等への移行計画を提案。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-002",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_product",
+      "category_label": "AIプロダクト",
+      "tier": 1,
+      "score": {
+        "total": 87,
+        "relevance": 36,
+        "impact": 27,
+        "actionability": 24
+      },
+      "summary": "AnthropicがAIエージェントにコード変更のレビュー・修正・承認を担わせる開発者向けツール「Claude Ship」を発表した。AI生成コードの増加で生じるレビュー工程のボトルネック解消を狙う。",
+      "why_important": "AI駆動開発で人手レビューがボトルネックになる中、承認プロセス自体のエージェント化が始まった。提供条件・料金は原典で要確認。",
+      "adxi_insight": "受託開発・顧客の開発標準に組み込むレビュー自動化と、人の承認ゲート設計を合わせて提案。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-003",
+      "title": "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 1,
+      "score": {
+        "total": 85,
+        "relevance": 37,
+        "impact": 26,
+        "actionability": 22
+      },
+      "summary": "メルカリグループが業務で使う「Notion AI」でチャット記録の一部が外部流出した可能性が公表された。AI処理の委託先で外部クラウドへの侵害や認証情報窃取、脆弱性悪用の不正アクセスが確認された。",
+      "why_important": "生成AI SaaSのサブプロセッサー経由で情報が漏れる実例で、国内企業の委託先管理が問われる。",
+      "adxi_insight": "顧客のAI SaaS導入時の委託先・サブプロセッサー評価とデータ分類ルール整備を提案する根拠に。",
+      "published_date": "2026-11-23"
+    },
+    {
+      "id": "2026-11-24-004",
+      "title": "[Launched] Generally Available: Model router now supports the Responses API protocol in Microsoft Foundry",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=581393",
+      "is_primary": true,
+      "media_url": "https://azure.microsoft.com/updates?id=581378",
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 1,
+      "score": {
+        "total": 84,
+        "relevance": 36,
+        "impact": 24,
+        "actionability": 24
+      },
+      "summary": "Microsoft Foundryのモデルルーターが、Responses APIプロトコルに一般提供で対応した。あわせてデプロイ不要での呼び出し、Messages API対応、既存デプロイの活用、AI Gateway連携がプレビューとなった。",
+      "why_important": "自動モデル選択が本番利用しやすくなり、コストと品質の最適化手段が広がる。対応リージョンは原典で要確認。",
+      "adxi_insight": "Azure OpenAI案件でのモデル切替・コスト最適化設計にルーター採用を検討する材料になる。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-005",
+      "title": "住友生命がChatGPT導入で524％のROI達成 金融の厳格な基準をどう突破した？",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/24/2000003335/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_private",
+      "category_label": "民間DX事例",
+      "tier": 1,
+      "score": {
+        "total": 83,
+        "relevance": 36,
+        "impact": 22,
+        "actionability": 25
+      },
+      "summary": "住友生命は「ChatGPT Enterprise」導入で、ヘビーユーザー層の平均推定ROI524％を実現した。金融の厳格な基準をどう満たし、AI利用を組織成果につなげたかを解説している。",
+      "why_important": "規制業種の国内大手による定量効果の公開事例で、提案時のベンチマークになる。数値の算定方法は原典で要確認。",
+      "adxi_insight": "金融・保険顧客への提案で、ヘビーユーザー育成とROI測定の設計例として引用する。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-006",
+      "title": "Microsoftが4万8000ドルを支払った脆弱性 文書1つでCopilotを乗っ取る「ChatMate」攻撃とは",
+      "source": "ITmedia エンタープライズ",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/23/news001.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 1,
+      "score": {
+        "total": 82,
+        "relevance": 35,
+        "impact": 24,
+        "actionability": 23
+      },
+      "summary": "セキュリティ企業Rubrikが、一見無害な文書をMicrosoft 365 Copilotにアップロードするだけで乗っ取れる「ChatMate」攻撃を実証した。脆弱性は修正済みで、Microsoftは4万8000ドルの報奨金を支払った。",
+      "why_important": "間接プロンプトインジェクションによるAIアシスタント乗っ取りの具体例。金額等は原典で要確認。",
+      "adxi_insight": "Copilot導入支援で、外部文書の取り扱いとプロンプトインジェクション対策を設計項目に加える。",
+      "published_date": "2026-11-23"
+    },
+    {
+      "id": "2026-11-24-007",
+      "title": "サイバーにメルカリ 活用企業の本音",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/111500581/111500003/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_private",
+      "category_label": "民間DX事例",
+      "tier": 1,
+      "score": {
+        "total": 80,
+        "relevance": 35,
+        "impact": 21,
+        "actionability": 24
+      },
+      "summary": "Claudeを全社展開し事業向けシステム開発に生かすサイバーエージェントとメルカリの声を取り上げた。両社は今後、モデル性能よりもAIエージェントの管理・運用機能の拡充に期待するという。",
+      "why_important": "国内先進企業の関心が「モデル性能」から「エージェント運用管理」に移っていることを示す。",
+      "adxi_insight": "エージェントの運用・ガバナンス設計をADiXiの差別化提案の軸に据える。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-008",
+      "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 2,
+      "score": {
+        "total": 76,
+        "relevance": 30,
+        "impact": 26,
+        "actionability": 20
+      },
+      "summary": "CrowdStrikeがZscalerを全額株式交換で約439億ドルで買収すると発表した。Zero Trust ExchangeなどをFalcon基盤に統合し、AIエージェントの保護を強化する。",
+      "why_important": "セキュリティ大手の再編で、AIエージェント保護が主要テーマになった。買収額等は原典で要確認。",
+      "adxi_insight": "顧客のゼロトラスト製品選定・ロードマップに影響。エージェント保護要件を提案に盛り込む。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-009",
+      "title": "脆弱性公開から約1日で攻撃コード Microsoft、守りをAIエージェントに任せる「Perception」一般提供",
+      "source": "ITmedia エンタープライズ",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news013.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 2,
+      "score": {
+        "total": 75,
+        "relevance": 30,
+        "impact": 24,
+        "actionability": 21
+      },
+      "summary": "Microsoftが、脆弱性対応などの防御をAIエージェントに任せるセキュリティシステム「Perception」の一般提供を始めた。脆弱性公開から約1日で攻撃コードが出る状況への対応を狙う。",
+      "why_important": "防御側のエージェント化が製品として一般提供段階に入った。",
+      "adxi_insight": "顧客SOC・運用保守での防御エージェント活用と、人の判断を残す範囲の設計を提案。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-010",
+      "title": "[Launched] Generally Available: Files knowledge source for Foundry IQ",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=581368",
+      "is_primary": true,
+      "media_url": "https://azure.microsoft.com/updates?id=581333",
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 74,
+        "relevance": 32,
+        "impact": 20,
+        "actionability": 22
+      },
+      "summary": "Foundry IQでファイルを直接アップロードして知識ソースにできる機能が一般提供された。関係性を扱うEnterprise Knowledge GraphやIQ Retriever Zero（反復検索）もプレビューで追加された。",
+      "why_important": "Azure上のRAG構築がマネージド化し、構築工数が下がる可能性がある。",
+      "adxi_insight": "RAG案件で自前パイプラインとFoundry IQの比較検討を標準化する。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-011",
+      "title": "[Launched] Generally Available: Agent insights in Microsoft Foundry",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=581363",
+      "is_primary": true,
+      "media_url": "https://azure.microsoft.com/updates?id=581358",
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 72,
+        "relevance": 31,
+        "impact": 19,
+        "actionability": 22
+      },
+      "summary": "Microsoft Foundryで、エージェントのトレースを分析し繰り返し起きる問題をまとめる「Agent insights」が一般提供された。エージェント評価への人手アノテーション機能もプレビューとなった。",
+      "why_important": "エージェントの品質評価・運用監視の仕組みがプラットフォーム標準になりつつある。",
+      "adxi_insight": "エージェント導入後の評価・改善サイクルの運用設計サービスに組み込む。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-012",
+      "title": "60万人の組織をAI変革",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/041700482/111600022/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "it_consul",
+      "category_label": "SIer・コンサル動向",
+      "tier": 2,
+      "score": {
+        "total": 72,
+        "relevance": 32,
+        "impact": 22,
+        "actionability": 18
+      },
+      "summary": "インドのIT大手TCSは、約60万人の組織で顧客向け全サービスをAI前提で再定義した。人月ベースのアウトソーシング事業の変化について、AI変革責任者に聞いている。",
+      "why_important": "グローバルSIerが人月モデルからの転換を進めており、国内SIerの競争環境にも波及する。",
+      "adxi_insight": "AI前提のサービス・価格モデル設計を自社と顧客の双方で検討する参考に。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-013",
+      "title": "企業は「ソブリンAI」にどう対応すべきか、マイクロソフトが提案するソリューションの中身",
+      "source": "AI Watch",
+      "url": "https://ai.watch.impress.co.jp/docs/interview/2156426.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "policy",
+      "category_label": "政策・規制",
+      "tier": 2,
+      "score": {
+        "total": 71,
+        "relevance": 31,
+        "impact": 20,
+        "actionability": 20
+      },
+      "summary": "欧州を中心に「ソブリンAI」（データ主権・デジタル主権）の議論が活発化している。マイクロソフトが企業向けに提案する対応ソリューションの中身を紹介している。",
+      "why_important": "データ所在・主権の要件が、国内でも公共・金融の調達条件になりつつある。",
+      "adxi_insight": "国内リージョン・データ所在要件を持つ顧客向けにソブリン構成の選択肢を整理する。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-014",
+      "title": "[In preview] Public Preview: Updated Guardrails experience in Microsoft Foundry",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=581338",
+      "is_primary": true,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 2,
+      "score": {
+        "total": 70,
+        "relevance": 31,
+        "impact": 18,
+        "actionability": 21
+      },
+      "summary": "Microsoft FoundryのGuardrailsの設定体験が刷新され、プレビューとなった。分類器、決定論的ルール、LLMによる判定などエージェントの実行時安全制御を構成できる。",
+      "why_important": "Content Safety一部機能の廃止と合わせ、Azureの安全制御の中心がGuardrailsへ移る流れ。",
+      "adxi_insight": "既存のContent Safety利用案件の移行先候補として検証しておく。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-015",
+      "title": "Confluentの基盤で精度の高いAI判断を支援、日本IBMがAI時代のリアルタイムデータ活用戦略を説明",
+      "source": "クラウド Watch",
+      "url": "https://cloud.watch.impress.co.jp/docs/news/2158486.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "it_consul",
+      "category_label": "SIer・コンサル動向",
+      "tier": 2,
+      "score": {
+        "total": 69,
+        "relevance": 29,
+        "impact": 20,
+        "actionability": 20
+      },
+      "summary": "日本IBMは、2026年3月に米本社が買収を完了したConfluentの基盤を活用し、リアルタイムデータをAI判断に生かす戦略を説明した。従来データにリアルタイムデータを加え判断精度を高めるという。",
+      "why_important": "大手ベンダーが「AI×リアルタイムデータ基盤」を国内で打ち出している。",
+      "adxi_insight": "データ基盤刷新とAI活用を一体で提案する際の競合動向として把握する。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-016",
+      "title": "製造業のAI変革でユニコーン バーティカルAIの旗手に",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600001/111600222/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "funding",
+      "category_label": "資金調達・投資",
+      "tier": 2,
+      "score": {
+        "total": 68,
+        "relevance": 28,
+        "impact": 20,
+        "actionability": 20
+      },
+      "summary": "製造業向けAIのキャディが約177億円を調達し、ユニコーンとなった。ものづくり現場の暗黙知をデータとして生かしバリューチェーン変革を支援する。",
+      "why_important": "政府も推すバーティカルAIで国内スタートアップが大型調達。金額は原典で要確認。",
+      "adxi_insight": "製造業顧客への提案で、バーティカルAI製品との連携・棲み分けを意識する。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-017",
+      "title": "相次ぐサイバー攻撃、漏洩メアドが次の標的に 努力不足の企業に罰則強化論",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03671/111600013/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 2,
+      "score": {
+        "total": 66,
+        "relevance": 29,
+        "impact": 20,
+        "actionability": 17
+      },
+      "summary": "相次ぐサイバー攻撃で漏洩したメールアドレスが次の攻撃の標的になっている。個人情報保護が不十分な企業への罰則強化論も出ている。",
+      "why_important": "個人情報漏洩時の規制強化の可能性は、顧客のデータ管理方針に影響する。法令動向は原典で要確認。",
+      "adxi_insight": "AI活用時の個人情報の取り扱い設計とインシデント対応計画の整備を提案。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-018",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "funding",
+      "category_label": "資金調達・投資",
+      "tier": 2,
+      "score": {
+        "total": 66,
+        "relevance": 26,
+        "impact": 22,
+        "actionability": 18
+      },
+      "summary": "Bret Taylor氏が共同創業したCX向けAIのSierraが、シリーズFで17.5億ドルを調達し、評価額を半年で倍の300億ドルとした。CX領域のAI需要の拡大を示す。",
+      "why_important": "カスタマーサポートのAIエージェント市場の急拡大を示す。金額は原典で要確認。",
+      "adxi_insight": "コンタクトセンター顧客へのAIエージェント導入提案の市場根拠に使う。",
+      "published_date": "2026-11-23"
+    },
+    {
+      "id": "2026-11-24-019",
+      "title": "一筋縄ではいかないAI駆動開発、テックリードが語る現場のリアル",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03832/111300001/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_llm",
+      "category_label": "生成AI・LLM",
+      "tier": 2,
+      "score": {
+        "total": 65,
+        "relevance": 28,
+        "impact": 18,
+        "actionability": 19
+      },
+      "summary": "システム開発現場でのAI駆動開発の実態を、テックリードの視点で紹介する連載。チャット型以外のAI活用が現場でどう使われているかを解説している。",
+      "why_important": "AI駆動開発の現場課題は、受託開発の生産性と品質管理に直結する。",
+      "adxi_insight": "社内・顧客の開発プロセスにAIを組み込む際の注意点の参考にする。詳細は原文参照。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-020",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "is_primary": true,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 2,
+      "score": {
+        "total": 64,
+        "relevance": 26,
+        "impact": 20,
+        "actionability": 18
+      },
+      "summary": "OpenAIとCiscoが、稼働中のLinuxシステムをパッチ適用までの間保護するオープンソースのランタイム「Shirudo」を発表した。",
+      "why_important": "パッチ適用までの空白期間を埋める仕組みで、AIによる攻撃高速化への対策となる。",
+      "adxi_insight": "顧客インフラの脆弱性対応プロセスに組み込めるか検証候補とする。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-021",
+      "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
+      "source": "Google Cloud AI",
+      "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 64,
+        "relevance": 27,
+        "impact": 18,
+        "actionability": 19
+      },
+      "summary": "Google CloudがAlloyDB OmniとGemma 4などローカルで動かすオープンモデルの連携を紹介した。オンプレミスのデータを外に出さずにAI活用する構成を示している。",
+      "why_important": "データを外に出せない顧客向けの選択肢が広がる。",
+      "adxi_insight": "閉域・オンプレ要件の案件で、ローカルモデル＋DB連携構成を候補に加える。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-022",
+      "title": "利用者が主体的に管理できる「ソブリンクラウド」、目的に応じて環境を構築",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/092800308/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 62,
+        "relevance": 27,
+        "impact": 17,
+        "actionability": 18
+      },
+      "summary": "利用者がデータやシステムの主権を確保しながら使える「ソブリンクラウド」の考え方と、目的に応じた環境構築を解説している。",
+      "why_important": "データ主権要件を持つ顧客への説明材料になる。",
+      "adxi_insight": "ソブリンAIの記事と合わせ、データ所在要件の整理テンプレートに反映する。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-023",
+      "title": "[Launched] Generally Available: Deploy hosted agents from your own container registry in Foundry Toolkit for VS Code",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=581478",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 62,
+        "relevance": 26,
+        "impact": 16,
+        "actionability": 20
+      },
+      "summary": "Foundry Toolkit for VS Codeで、顧客管理のコンテナレジストリ（Azure以外も含む）の事前ビルドイメージからホスト型エージェントをデプロイできるようになった（一般提供）。",
+      "why_important": "既存のCI/CD・レジストリ運用を維持したままエージェントを展開できる。",
+      "adxi_insight": "エンタープライズ顧客のエージェント展開手順にそのまま使える。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-024",
+      "title": "ロックウェルがAIで狙う工程革新 各エージェントを“指揮”する新製品とは",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news024.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "global_dx",
+      "category_label": "海外DX",
+      "tier": 2,
+      "score": {
+        "total": 62,
+        "relevance": 25,
+        "impact": 18,
+        "actionability": 19
+      },
+      "summary": "ロックウェル オートメーションが「自動化から自律化へ」を掲げ、各AIエージェントを“指揮”する新技術を披露した。LLMやフィジカルAIを背景に、設備全体が学習・最適化する生産システムを描く。",
+      "why_important": "製造業のAIエージェント活用が設備制御レベルに広がりつつある。",
+      "adxi_insight": "製造業顧客の工場DX提案で、エージェント連携のアーキテクチャ参考にする。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-025",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+      "is_primary": false,
+      "media_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "category": "policy",
+      "category_label": "政策・規制",
+      "tier": 2,
+      "score": {
+        "total": 62,
+        "relevance": 24,
+        "impact": 22,
+        "actionability": 16
+      },
+      "summary": "OpenAIのチーフサイエンティストが、「パープレキシティ」を共通指標にAI開発の上限を業界で設けるよう提案した。早ければ2027年にも事前学習が急加速する恐れがあるとしている。",
+      "why_important": "AI開発の安全規制の議論に影響し得る。",
+      "adxi_insight": "顧客向けのAIガバナンス解説で、海外の規制議論の動向として紹介する。",
+      "published_date": "2026-11-23"
+    },
+    {
+      "id": "2026-11-24-026",
+      "title": "Amazon Connect Customer now lets you test AI model version upgrades for automated evaluations",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-test-ai-model-version-upgrades-automated-evaluations",
+      "is_primary": true,
+      "media_url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 2,
+      "score": {
+        "total": 61,
+        "relevance": 25,
+        "impact": 17,
+        "actionability": 19
+      },
+      "summary": "Amazon Connect Customerで、自動評価に使うAIモデルの新バージョンを切替前にテストできるようになった。自動パフォーマンス評価も45言語が追加された。",
+      "why_important": "モデル更新時に評価スコアの一貫性を保てる。",
+      "adxi_insight": "コンタクトセンターAI案件で、モデル更新時の検証手順の設計に生かす。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-027",
+      "title": "解約して1年以上の筆者にも届いた漏えい通知 「資産を持っている」「通院している」がひも付く日",
+      "source": "ITmedia エンタープライズ",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news022.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "security",
+      "category_label": "AIセキュリティ",
+      "tier": 2,
+      "score": {
+        "total": 60,
+        "relevance": 25,
+        "impact": 18,
+        "actionability": 17
+      },
+      "summary": "解約済みの楽天証券から情報漏えいの可能性を知らせる通知が筆者に届いたという体験から、相次ぐ漏えい情報と生成AIを組み合わせた次の脅威を論じている。",
+      "why_important": "漏えい情報をAIで突き合わせる攻撃は、顧客の個人情報リスク評価に影響する。",
+      "adxi_insight": "AI活用の個人情報リスク説明の事例として使う。詳細は原文参照。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-028",
+      "title": "データ基盤をクラウドで拡張 異なる製品接続で試行錯誤",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600004/111600222/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_private",
+      "category_label": "民間DX事例",
+      "tier": 2,
+      "score": {
+        "total": 60,
+        "relevance": 25,
+        "impact": 17,
+        "actionability": 18
+      },
+      "summary": "オンプレミスのデータ解析基盤をクラウドで拡張し、ハイブリッド構成を実現した事例。機微情報はオンプレに残しつつ、6〜10時間かかっていた解析を30分〜1時間程度に短縮した。",
+      "why_important": "機微データを残すハイブリッド構成の実例。企業名・数値は原典で要確認。",
+      "adxi_insight": "データ基盤刷新提案でハイブリッド構成の参考事例として使う。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-029",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "is_primary": true,
+      "media_url": null,
+      "category": "ai_product",
+      "category_label": "AIプロダクト",
+      "tier": 2,
+      "score": {
+        "total": 60,
+        "relevance": 23,
+        "impact": 17,
+        "actionability": 20
+      },
+      "summary": "Richpanelは、GPT-6系モデルでAIサポートエージェントにツールと手順を持たせ、30日でサポートの50％自動化を支援しているという事例。",
+      "why_important": "サポート自動化の効果目安として参照できる。数値は原典で要確認。",
+      "adxi_insight": "CS領域のAIエージェント提案で、モデルの使い分け構成の参考にする。",
+      "published_date": "2026-11-23"
+    },
+    {
+      "id": "2026-11-24-030",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "funding",
+      "category_label": "資金調達・投資",
+      "tier": 3,
+      "score": {
+        "total": 58,
+        "relevance": 22,
+        "impact": 20,
+        "actionability": 16
+      },
+      "summary": "AmazonがDecartのAI最適化技術と研究チームを約75億ドルで取得すると報じられた。Trainiumチップの外販準備の一環とみられる。",
+      "why_important": "AWSの推論コスト・チップ戦略に影響し得る。金額は報道ベースで原典で要確認。",
+      "adxi_insight": "AWS上のAI案件の中長期コスト見通しの参考情報として押さえる。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-031",
+      "title": "700件超の論文を分析 安全と成長の二兎追う",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/111500581/111500005/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_llm",
+      "category_label": "生成AI・LLM",
+      "tier": 3,
+      "score": {
+        "total": 52,
+        "relevance": 24,
+        "impact": 15,
+        "actionability": 13
+      },
+      "summary": "Anthropicの700件超の論文や公式ブログを分析し、安全性重視と技術的優位性の両立を図る姿勢を描いた特集記事。",
+      "why_important": "Claude採用を検討する顧客への説明材料になる。",
+      "adxi_insight": "ベンダー選定時のAnthropicの特徴説明に活用する。詳細は原文参照。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-032",
+      "title": "AIは「ハーネスを飲み込む」か、マスク氏も反応した10月のAI注目論文",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02801/111900041/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_llm",
+      "category_label": "生成AI・LLM",
+      "tier": 3,
+      "score": {
+        "total": 52,
+        "relevance": 22,
+        "impact": 15,
+        "actionability": 15
+      },
+      "summary": "AIエージェントの性能を左右する「ハーネス」の改良自体をAIが行う手法を示した論文を紹介している。米カーネギーメロン大学と米ジョンズ・ホプキンス大学の研究チームによる。",
+      "why_important": "エージェント開発の設計思想の変化を示す研究動向。",
+      "adxi_insight": "エージェント構築案件のハーネス設計の参考として押さえる。詳細は原文参照。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-033",
+      "title": "玉虫色のAI自主規制 裁判資料に見る葛藤",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/111500581/111500004/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "policy",
+      "category_label": "政策・規制",
+      "tier": 3,
+      "score": {
+        "total": 50,
+        "relevance": 22,
+        "impact": 15,
+        "actionability": 13
+      },
+      "summary": "アンソロピックが、ライバルや中国勢の台頭、IPOを背景に現実路線への転換を迫られているとする特集記事。著作権侵害訴訟の裁判資料から創業者の葛藤も読み取れるとしている。",
+      "why_important": "主要AIベンダーの経営方針の変化はベンダーリスク評価に関わる。",
+      "adxi_insight": "顧客のマルチベンダー戦略の必要性を説明する材料に。詳細は原文参照。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-034",
+      "title": "超超急成長の先へ 資源逼迫乗り越える",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/111500581/111500002/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_product",
+      "category_label": "AIプロダクト",
+      "tier": 3,
+      "score": {
+        "total": 50,
+        "relevance": 22,
+        "impact": 14,
+        "actionability": 14
+      },
+      "summary": "「Claude Code」の開発責任者が、急成長の要因を安全性と信頼性の担保にあるとみる特集記事。資源逼迫を乗り越えさらなる成長への自信を示した。",
+      "why_important": "AIコーディングツール市場の拡大を示す。",
+      "adxi_insight": "開発支援ツール選定の参考情報として押さえる。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-035",
+      "title": "AI用語の基礎知識 【第32回】「エージェント決済」とは――AIが買い物と支払いを代行する仕組み。「勝手に買われない」ための安全網は?",
+      "source": "AI Watch",
+      "url": "https://ai.watch.impress.co.jp/docs/serial/glossary/2158372.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_llm",
+      "category_label": "生成AI・LLM",
+      "tier": 3,
+      "score": {
+        "total": 50,
+        "relevance": 20,
+        "impact": 15,
+        "actionability": 15
+      },
+      "summary": "AIが買い物と支払いを代行する「エージェント決済」の仕組みと、勝手に買われないための安全網を解説する用語解説記事。",
+      "why_important": "エージェント決済は小売・EC顧客で今後の検討テーマになる。",
+      "adxi_insight": "EC・小売顧客への将来提案の基礎知識として共有する。",
+      "published_date": "2026-11-23"
+    },
+    {
+      "id": "2026-11-24-036",
+      "title": "Connected intelligence for in-house legal",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "is_primary": true,
+      "media_url": null,
+      "category": "ai_product",
+      "category_label": "AIプロダクト",
+      "tier": 3,
+      "score": {
+        "total": 48,
+        "relevance": 20,
+        "impact": 14,
+        "actionability": 14
+      },
+      "summary": "OpenAIが、社内法務チームがAIで業務文脈をつなぐ方法を専門家と議論するセッションを公開した。",
+      "why_important": "法務部門のAI活用は国内企業でも需要がある領域。",
+      "adxi_insight": "法務部門向けAI活用提案の参考にする。詳細は原文参照。",
+      "published_date": "2026-11-23"
+    },
+    {
+      "id": "2026-11-24-037",
+      "title": "生成AIで顧客の満足度や要望を分析、感情分析アプリの概要を理解しよう",
+      "source": "日経クロステック IT",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03796/101400001/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_llm",
+      "category_label": "生成AI・LLM",
+      "tier": 3,
+      "score": {
+        "total": 48,
+        "relevance": 20,
+        "impact": 12,
+        "actionability": 16
+      },
+      "summary": "生成AIで顧客の満足度や要望を分析する「感情分析」アプリの概要を解説する講座記事。",
+      "why_important": "VOC分析は導入しやすい生成AIユースケースの一つ。",
+      "adxi_insight": "顧客の初期PoC候補としてVOC分析を提示する。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-038",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "ai_product",
+      "category_label": "AIプロダクト",
+      "tier": 3,
+      "score": {
+        "total": 46,
+        "relevance": 18,
+        "impact": 16,
+        "actionability": 12
+      },
+      "summary": "Google検索のAIモードが、Personal IntelligenceでDriveやWallet、Geminiアプリのデータを使い、よりパーソナライズした回答を返せるようになった。",
+      "why_important": "個人データ連携の拡大はプライバシー議論を伴う。",
+      "adxi_insight": "企業利用時のデータ連携ポリシー検討の参考にする。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-039",
+      "title": "[Launched] Public Preview: Style and instruction control for HD V3 voices in Azure Speech in Foundry Tools",
+      "source": "Azure Updates",
+      "url": "https://azure.microsoft.com/updates?id=581353",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 46,
+        "relevance": 19,
+        "impact": 12,
+        "actionability": 15
+      },
+      "summary": "Azure Speech in Foundry ToolsのHD V3音声で、スタイルや指示による話し方の制御がパブリックプレビューとなった。",
+      "why_important": "音声エージェントの表現力向上につながる。",
+      "adxi_insight": "音声ボット案件で検証候補とする。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-040",
+      "title": "Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 45,
+        "relevance": 18,
+        "impact": 12,
+        "actionability": 15
+      },
+      "summary": "SageMaker StudioでSageMaker HyperPodクラスタへのトレーニングジョブ投入とモデルデプロイができるようになった。",
+      "why_important": "大規模学習の開発体験が改善される。",
+      "adxi_insight": "独自モデル学習案件があれば参考にする。",
+      "published_date": "2026-11-23"
+    },
+    {
+      "id": "2026-11-24-041",
+      "title": "AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 44,
+        "relevance": 16,
+        "impact": 13,
+        "actionability": 15
+      },
+      "summary": "Amazon Bedrock AgentCoreのランタイムインスタンスがAWS GovCloud (US-West)で一般提供された。",
+      "why_important": "米国政府向けリージョンでのエージェント実行基盤の提供。国内リージョンではない点に注意。",
+      "adxi_insight": "国内リージョン対応の動きを注視する材料に。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-042",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "funding",
+      "category_label": "資金調達・投資",
+      "tier": 3,
+      "score": {
+        "total": 44,
+        "relevance": 17,
+        "impact": 15,
+        "actionability": 12
+      },
+      "summary": "Notable Capital、GIC、Baillie GiffordがIPO前のAnthropicに大規模投資した理由を語っている。",
+      "why_important": "主要AIベンダーの資本動向。",
+      "adxi_insight": "ベンダー動向の背景情報として押さえる。",
+      "published_date": "2026-11-23"
+    },
+    {
+      "id": "2026-11-24-043",
+      "title": "NVIDIA、ジェンスン・フアン氏がCEO復帰 取締役会が全会一致で",
+      "source": "EnterpriseZine",
+      "url": "https://enterprisezine.jp/news/detail/25546",
+      "is_primary": false,
+      "media_url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "category": "global_dx",
+      "category_label": "海外DX",
+      "tier": 3,
+      "score": {
+        "total": 44,
+        "relevance": 14,
+        "impact": 20,
+        "actionability": 10
+      },
+      "summary": "NVIDIAは2026年11月23日、ジェンスン・フアン氏を社長兼CEOおよび取締役に復帰させたと発表した。米政府高官の支持もあったと報じられ、上院での証言も予定されている。",
+      "why_important": "GPU供給の最大手の経営・輸出管理問題は、AI基盤の調達に影響し得る。",
+      "adxi_insight": "GPU調達リスクの背景情報として押さえる。",
+      "published_date": "2026-11-23"
+    },
+    {
+      "id": "2026-11-24-044",
+      "title": "データセンター「迷惑施設」から“名誉挽回“なるか？ 東大教授が「あとはやる気の問題」と指摘するワケ",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/24/news007.html",
+      "is_primary": false,
+      "media_url": null,
+      "category": "dx_gov",
+      "category_label": "行政DX",
+      "tier": 3,
+      "score": {
+        "total": 42,
+        "relevance": 15,
+        "impact": 14,
+        "actionability": 13
+      },
+      "summary": "消費電力が急増するデータセンターが、地域との共生をどう模索しているかを東大教授が解説している。",
+      "why_important": "国内DC立地・電力問題はAI基盤の供給制約に関わる。",
+      "adxi_insight": "国内リージョン・DC選定の背景情報として押さえる。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-045",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "is_primary": false,
+      "media_url": null,
+      "category": "funding",
+      "category_label": "資金調達・投資",
+      "tier": 3,
+      "score": {
+        "total": 42,
+        "relevance": 14,
+        "impact": 12,
+        "actionability": 16
+      },
+      "summary": "市場予測をAIエージェントが株式ポートフォリオに変えるSupertakeが2000万ドルを調達した。",
+      "why_important": "金融領域のAIエージェント活用の一例。",
+      "adxi_insight": "金融顧客向けのエージェント事例として参考にする。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": "2026-11-24-046",
+      "title": "Announcing metal size for Amazon EC2 G7 instances",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/",
+      "is_primary": true,
+      "media_url": null,
+      "category": "vendor_updates",
+      "category_label": "ベンダー更新",
+      "tier": 3,
+      "score": {
+        "total": 42,
+        "relevance": 15,
+        "impact": 12,
+        "actionability": 15
+      },
+      "summary": "NVIDIA RTX PRO 4500搭載のAmazon EC2 G7インスタンスでメタルサイズが一般提供された。",
+      "why_important": "GPUインスタンスの選択肢が増える。",
+      "adxi_insight": "GPU利用案件のインスタンス選定時に参照する。",
+      "published_date": "2026-11-24"
+    }
+  ],
+  "case_studies": [
+    {
+      "company": "住友生命",
+      "title": "住友生命がChatGPT導入で524％のROI達成 金融の厳格な基準をどう突破した？",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/24/2000003335/",
+      "source": "ITmedia AI+",
+      "summary": "住友生命は「ChatGPT Enterprise」導入で、ヘビーユーザー層の平均推定ROI524％を実現した。金融の厳格な基準をどう満たし、AI利用を組織成果につなげたかを解説している。",
+      "adxi_insight": "金融顧客へのROI測定設計の参考に。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "company": "サイバーエージェント／メルカリ",
+      "title": "サイバーにメルカリ 活用企業の本音",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/111500581/111500003/",
+      "source": "日経クロステック IT",
+      "summary": "Claudeを全社展開し事業向けシステム開発に生かすサイバーエージェントとメルカリの声を取り上げた。両社は今後、モデル性能よりもAIエージェントの管理・運用機能の拡充に期待するという。",
+      "adxi_insight": "エージェント運用管理を軸にした提案の裏付けに。",
+      "published_date": "2026-11-24"
+    },
+    {
+      "company": "（企業名は原文参照）",
+      "title": "データ基盤をクラウドで拡張 異なる製品接続で試行錯誤",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600004/111600222/",
+      "source": "日経クロステック IT",
+      "summary": "オンプレミスのデータ解析基盤をクラウドで拡張し、ハイブリッド構成を実現した事例。機微情報はオンプレに残しつつ、6〜10時間かかっていた解析を30分〜1時間程度に短縮した。",
+      "adxi_insight": "機微データを残すハイブリッド構成の参考に。",
+      "published_date": "2026-11-24"
+    }
+  ],
+  "stats": {
+    "total_articles": 46,
+    "by_tier": {
+      "1": 7,
+      "2": 22,
+      "3": 17
+    },
+    "by_category": {
+      "vendor_updates": 12,
+      "ai_product": 5,
+      "security": 8,
+      "dx_private": 3,
+      "it_consul": 2,
+      "policy": 3,
+      "funding": 5,
+      "ai_llm": 5,
+      "global_dx": 2,
+      "dx_gov": 1
+    },
+    "primary_source_ratio": 0.33,
+    "window": "2026-11-23..2026-11-24",
+    "collected_total": 68
+  }
+}
